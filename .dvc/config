@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /home/vijay/Documents/gen_ai/data_version_control/dvc_remote
